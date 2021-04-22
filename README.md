@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Md Arif Hossain</h1>
+<h1 align="center">Hi 👋, I'm Humayun Ahmed</h1>
 <h3 align="center">A curious and passionate Front-End Developer and Javascript Enthusiast!</h3>
 
-- 👨‍💻 My portfolio website [#](http://example.com)
-- 📝 I write articles on [#](https://medium.com/#)
+- 👨‍💻 My portfolio website [coming soon](http://example.com)
+- 📝 I write articles on [https://medium.com/#](https://medium.com/#)
 - 🌱 I’m currently learning ReactJS, NodeJS
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Web Development with ReactJs and NodeJs, App Development with React Native and Flutter
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <br /><br />
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://git-scm.com)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com)
-[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](gitlab.com)
+<!-- [<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](gitlab.com) -->
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />](https://iterm2.com)
 [<img align="left" alt="Bitbucket" width="50px" src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1246" />](https://bitbucket.org)
 [<img align="left" alt="Trello" width="40px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png" />](https://trello.com)
@@ -75,21 +75,20 @@ Here are some ideas to get you started:
 ---
 
 ### Favorite Repositories
-- [Node-Express Jwt-Auth](https://github.com/arifpro/node-express-jwt-auth)
-- [React Alan_AI News Application](https://github.com/arifpro/react-alan_ai-news_application)
-- [React Facebook Clone](https://github.com/arifpro/react-facebook-clone)
-- [Red Onion Restaurant](https://github.com/arifpro/restaurant-red-onion)
-- [Ema John E-commerce Site](https://github.com/arifpro/ema-john-simple)
-- [React Todo List Simple](https://github.com/arifpro/react-todo-list-simple)
-- [Modern React with Redux](https://github.com/arifpro/Modern-React-with-Redux)
-- [NodeJS The Complete Guide](https://github.com/arifpro/NodeJS-The-Complete-Guide)
-- [Flutter Rider](https://github.com/arifpro/flutter-rider)
-- [Amazon Redesign](https://github.com/arifpro/amazon-redesign)
-- [Getting Started Flutter](https://github.com/arifpro/getting-started-flutter)
+- [Web Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [30-Seconds-Of-Code](https://github.com/30-seconds/30-seconds-of-code)
+- [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [CSS-Protips](https://github.com/AllThingsSmitty/css-protips)
+- [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed)
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [Javascript-Questions](https://github.com/lydiahallie/javascript-questions)
+- [Clean-Code-Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro&count_private=true&show_icons=true&hide_border=true)](https://github.com/arifpro)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=humayunahmed8&count_private=true&show_icons=true&hide_border=true)](https://github.com/humayunahmed8)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true)](https://github.com/arifpro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humayunahmed8&layout=compact&hide_border=true)](https://github.com/humayunahmed8)
 
 ---
 
