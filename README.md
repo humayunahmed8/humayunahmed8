@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">A curious and passionate Front-End Developer and Javascript Enthusiast!</h3>
 
 - 👨‍💻 My portfolio website [Coming soon..](http://example.com)
-- 📝 I write articles on [https://medium.com/#](https://medium.com/#)
+- 📝 I write articles on [https://medium.com](https://medium.com/@humayunahmed8)
 - 🌱 I’m currently learning ReactJS, NodeJS
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Web Development with ReactJs and NodeJs, App Development with React Native and Flutter
