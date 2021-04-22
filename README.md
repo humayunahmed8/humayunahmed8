@@ -94,6 +94,6 @@ Here are some ideas to get you started:
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/arifpro/count.svg" />
+  <img align="center" alt="humayunahmed8" width="40%" src="https://profile-counter.glitch.me/humayunahmed8/count.svg" />
 </p>
 
