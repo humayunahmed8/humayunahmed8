@@ -83,6 +83,17 @@ Here are some ideas to get you started:
 - [Javascript-Questions](https://github.com/lydiahallie/javascript-questions)
 - [Clean-Code-Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [Node-Express Jwt-Auth](https://github.com/arifpro/node-express-jwt-auth)
+- [React Alan_AI News Application](https://github.com/arifpro/react-alan_ai-news_application)
+- [React Facebook Clone](https://github.com/arifpro/react-facebook-clone)
+- [Red Onion Restaurant](https://github.com/arifpro/restaurant-red-onion)
+- [Ema John E-commerce Site](https://github.com/arifpro/ema-john-simple)
+- [React Todo List Simple](https://github.com/arifpro/react-todo-list-simple)
+- [Modern React with Redux](https://github.com/arifpro/Modern-React-with-Redux)
+- [NodeJS The Complete Guide](https://github.com/arifpro/NodeJS-The-Complete-Guide)
+- [Flutter Rider](https://github.com/arifpro/flutter-rider)
+- [Amazon Redesign](https://github.com/arifpro/amazon-redesign)
+- [Getting Started Flutter](https://github.com/arifpro/getting-started-flutter)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=humayunahmed8&count_private=true&show_icons=true&hide_border=true)](https://github.com/humayunahmed8)
 
