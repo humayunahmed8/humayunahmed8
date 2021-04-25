@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="humayunahmed8 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/humayunahmed8)
 [<img align="left" alt="devhumayun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/devhumayun)
 [<img align="left" alt="humayunahmed8 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/humayunahmed8)
-[<img align="left" alt="example | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/#)
+[<img align="left" alt="example | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@humayunahmed8)
 [<img align="left" alt="developerhumayun | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:developer.humayun@gmail.com)
 
 <br />
