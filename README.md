@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📝 I write articles on [https://medium.com/@humayunahmed8](https://medium.com/@humayunahmed8)
 - 🌱 I’m currently learning ReactJS, NodeJS
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Web Development with ReactJs and NodeJs, App Development with React Native and Flutter
+- 🥅 2021 Goals: Web Development with ReactJs and NodeJs, App Development with React Native 
 - ⚡ Fun fact: I love coding and watch movies
 - 📫 Reach me at **developer.humayun@gmail.com**
 
