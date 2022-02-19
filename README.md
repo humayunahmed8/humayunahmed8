@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Humayun Ahmed</h1>
 <h3 align="center">A curious and passionate Front-End Developer and Javascript Enthusiast!</h3>
 
-- 👨‍💻 My portfolio website [Coming soon..](http://example.com)
+- 👨‍💻 My portfolio website [humayunahmed.xyz](https://humayunahmed.xyz)
 - 📝 I write articles on [https://medium.com/@humayunahmed8](https://medium.com/@humayunahmed8)
 - 🌱 I’m currently learning ReactJS, NodeJS
 - 👯 I’m looking to collaborate with other content creators
