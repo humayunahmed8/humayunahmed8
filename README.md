@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 📝 I write articles on [https://medium.com/@humayunahmed8](https://medium.com/@humayunahmed8)
 - ⚡ Love to do: Blogging, Travelling, Cooking
 - 📫 Reach me at **developer.humayun@gmail.com**
+- 📝 I write wordpress blog on [https://extractcode.wordpress.com](https://extractcode.wordpress.com)
 
 ### Connect with me:
 [<img align="left" alt="humayunahmed website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://humayunahmed.vercel.app)
