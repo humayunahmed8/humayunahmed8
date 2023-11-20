@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 Reach me at **developer.humayun@gmail.com**
 
 ### Connect with me:
-[<img align="left" alt="example.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://humayunahmed.vercel.app)
+[<img align="left" alt="humayunahmed website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://humayunahmed.vercel.app)
 [<img align="left" alt="humayunfarhad3 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/humayunahmed32)
 [<img align="left" alt="humayunahmed8 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/humayunahmed8)
 [<img align="left" alt="devhumayun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/humayunahmed8)
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Trello" width="40px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png" />](https://trello.com)
 [<img align="left" alt="jira" width="50px" src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=1246" />](https://jira.atlassian.com)
 [<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/postman.svg" />](https://www.postman.com)
-[<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/anaconda.svg" />](https://www.anaconda.com)
+[<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/wordpress.svg" />](https://codex.wordpress.org)
 
 <br />
 <br />
