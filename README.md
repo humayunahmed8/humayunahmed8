@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 My portfolio website [https://humayunahmed.vercel.app](https://humayunahmed.vercel.app)
 - 📝 I write articles on [https://medium.com/@humayunahmed8](https://medium.com/@humayunahmed8)
-- ⚡ Fun fact: I love coding and watch movies
+- ⚡ Love to Do: Blogging, Travelling, Cooking
 - 📫 Reach me at **developer.humayun@gmail.com**
 
 ### Connect with me:
