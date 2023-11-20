@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Humayun Ahmed</h1>
-<h3 align="center">A curious and passionate Front-End Developer and Javascript Enthusiast!</h3>
+<h3 align="center">A curious and passionate Front-End Developer and WordPress Enthusiast!</h3>
 
 - 👨‍💻 My portfolio website [https://humayunahmed.vercel.app](https://humayunahmed.vercel.app)
 - 📝 I write articles on [https://medium.com/@humayunahmed8](https://medium.com/@humayunahmed8)
